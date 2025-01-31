@@ -1,0 +1,39 @@
+/* General Button Styling */
+button, .button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+}
+
+/* Logout Button (Blue) */
+.button-Logout {
+    background-color: #007BFF;
+}
+
+.button-Logout:hover {
+    background-color: #0056b3;
+}
+
+/* Delete Button (Red) */
+.button-Delete {
+    background-color: #DC3545;
+}
+
+.button-Delete:hover {
+    background-color: #a71d2a;
+}
+
+/* Update Button (Green) */
+.button-Update {
+    background-color: #28A745;
+}
+
+.button-Update:hover {
+    background-color: #1e7e34;
+}
