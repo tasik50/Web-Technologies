@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Search Users</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="../js/script.js" defer></script> <!-- Load external JS file -->
+    <script src="../sjax/script.js" defer></script> <!-- Load external JS file -->
 </head>
 <body>
     <h1>Search Users</h1>
